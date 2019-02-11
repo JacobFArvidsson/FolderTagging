@@ -9,4 +9,6 @@ def window():
     window.show()
     sys.exc_info(app.exec_())
 
+    print("hejsan")
+
 window()
